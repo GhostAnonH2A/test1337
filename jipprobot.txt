@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: jipp.pekalongankab.go.id/referensi/slot-pulsa/sitemap.xml
