@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: esikap.pekalongankab.go.id/includes/files_cascading/slot-server-thailand/sitemap.xml
